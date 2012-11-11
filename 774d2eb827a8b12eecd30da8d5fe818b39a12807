@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//9X8\u003d",
+        "filename": "n80xx-common.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-11-11T19:27:35Z",
+      "side": 1,
+      "message": "can be removed. is a depency of tinymix",
+      "revId": "774d2eb827a8b12eecd30da8d5fe818b39a12807",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//9X4\u003d",
+        "filename": "n80xx-common.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-11-11T19:27:35Z",
+      "side": 1,
+      "message": "included by smdk common",
+      "revId": "774d2eb827a8b12eecd30da8d5fe818b39a12807",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
